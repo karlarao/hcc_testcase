@@ -27,4 +27,4 @@
 * You can also run some DML on the tables and validate the rows
 * Lastly re-compress
 
-The doc "HCC test case.docx" shows more detailed step by step 
+The doc <a href="https://github.com/karlarao/hcc_testcase/raw/master/HCC%20test%20case.docx" target="_blank">"HCC test case.docx"</a> shows more detailed step by step 
