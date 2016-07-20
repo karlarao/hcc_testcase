@@ -26,3 +26,5 @@
     * run_stats_query_all.sql
 * You can also run some DML on the tables and validate the rows
 * Lastly re-compress
+
+The doc "HCC test case.docx" shows more detailed step by step 
